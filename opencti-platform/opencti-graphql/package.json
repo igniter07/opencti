@@ -40,7 +40,7 @@
     "node": ">= 17.*"
   },
   "dependencies": {
-    "@apollo/server": "4.11.0",
+    "@apollo/server": "5.0.0",
     "@apollo/server-plugin-landing-page-graphql-playground": "4.0.1",
     "@aws-sdk/client-s3": "3.679.0",
     "@aws-sdk/client-sts": "3.679.0",
@@ -84,7 +84,7 @@
     "bcryptjs": "2.4.3",
     "blocked-at": "1.2.0",
     "bluebird": "3.7.2",
-    "body-parser": "1.20.3",
+    "body-parser": "1.20.4",
     "canonicalize": "2.0.0",
     "compression": "1.7.4",
     "content-disposition": "0.5.4",
@@ -95,7 +95,7 @@
     "dot-object": "2.1.5",
     "ejs": "3.1.10",
     "eventsource": "2.0.2",
-    "express": "4.21.0",
+    "express": "4.22.0",
     "express-rate-limit": "7.4.0",
     "express-session": "1.18.0",
     "fast-json-patch": "3.1.1",
